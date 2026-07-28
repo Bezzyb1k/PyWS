@@ -1,1 +1,2 @@
-# Error 404
+# PythonWorkShop
+Личная мастерская для изучения Python
