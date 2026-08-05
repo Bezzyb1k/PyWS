@@ -70,3 +70,15 @@ while i < len(data):
     else:
         i += 1
 print(f"Список без отрицательных чисел: {data}")
+
+# Бесконечный цикл с условием
+print("\n=== Бесконечный цикл с условием ===")
+run = True
+i = 0
+while run:
+    print(f"Итерация {i}")
+    i += 1
+    if i >= 3:
+        run = False
+print("Цикл завершен")
+
